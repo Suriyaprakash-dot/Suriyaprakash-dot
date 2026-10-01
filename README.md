@@ -56,9 +56,15 @@ I enjoy taking digital concepts from architecture to synthesizable RTL, validati
 
 ## 🚀 Featured Projects
 
-### 🧠 [32-bit 5-Stage RISC-V Processor](./projects/32-bit-5-stage-RISC-V-Processor/)
+### 🧠 32-bit 5-Stage RISC-V Processor
 
-Verilog RTL project focused on a five-stage pipelined processor architecture, including hazard handling, data forwarding, simulation, and FPGA-oriented implementation.
+Verilog RTL implementation of a pipelined processor with:
+
+- 5-stage pipeline architecture
+- Pipeline hazard handling
+- Data forwarding
+- RTL simulation
+- FPGA-oriented implementation using Vivado
 
 **Focus:** Processor RTL | Computer Architecture | Verilog | Verification
 
